@@ -1,0 +1,14 @@
+# Job Configuration File
+
+# Dataset file path
+data_config_file: "Alhuraibi_alamoudi_ahmed_python_assignment2_proc.csv"
+
+# Output file name 
+output_file_name: "HW ARGPARSE VAR"
+
+
+#plot_config:
+xlabel: Number of Beds
+ylabel: Rate
+
+group_by_column : ['CITY','PROGRAM_AREA','PROGRAM_MODEL','SECTOR','CAPACITY_TYPE']

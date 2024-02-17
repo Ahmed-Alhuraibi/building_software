@@ -1,0 +1,13 @@
+# Job Configuration File
+
+# Dataset file path
+data_config_file: "Alhuraibi_alamoudi_ahmed_python_assignment2_proc.csv"
+
+# Output file name 
+output_file_name: "HW PYYAML"
+
+
+#plot_config:
+xlabel: Number of Beds
+ylabel: Rate
+

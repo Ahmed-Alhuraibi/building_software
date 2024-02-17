@@ -1,0 +1,11 @@
+# User Configuration File
+
+# Default title
+default_title: "Bed Occupancy Analysis"
+
+# Default standard font size
+default_std_font_size: 14
+
+# Default header font size
+default_hd_font_size: 16
+
